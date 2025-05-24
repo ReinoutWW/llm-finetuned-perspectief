@@ -2,6 +2,8 @@
 
 End‑to‑end pipeline that turns a public website into a question‑answering assistant powered by a fine‑tuned **Llama‑3.1 8B Instruct** model, a FAISS knowledge base and a lightweight RAG wrapper.
 
+Hugging Face: https://huggingface.co/ReinoutW/perspectief-llama-3-8b-dutch-qa-lora-v1
+
 ---
 
 ## 🗺️ Repository structure
