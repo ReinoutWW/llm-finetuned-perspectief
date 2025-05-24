@@ -1,0 +1,9 @@
+*.jsonl
+checkpoints
+unsloth_compiled_cache
+/kb/*
+/venv
+/scraped_content/*.txt
+*.index
+*.pkl
+*.txt
